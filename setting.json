@@ -214,6 +214,21 @@
       ],
       "data-innerHTML":"",
       "position":"start"
+    },
+	 {
+      "name-element":"meta",
+      "data-attribute":[
+        {
+          "name-attribute":"name",
+          "value-attribute":"google-site-verification"
+        },
+        {
+          "name-attribute":"content",
+          "value-attribute":"Pszk0nchRX157pkTuX_AqZx0GbRl5j1REL6zGJ052PI"
+        }
+      ],
+      "data-innerHTML":"",
+      "position":"start"
     }
   ],
   "inject-element-body":[
