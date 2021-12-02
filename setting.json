@@ -200,21 +200,6 @@
       "data-innerHTML":"",
       "position":"start"
     },
-    {
-      "name-element":"meta",
-      "data-attribute":[
-        {
-          "name-attribute":"property",
-          "value-attribute":"article:author"
-        },
-        {
-          "name-attribute":"content",
-          "value-attribute":"${authorPost}"
-        }
-      ],
-      "data-innerHTML":"",
-      "position":"start"
-    },
 	 {
       "name-element":"meta",
       "data-attribute":[
@@ -225,6 +210,21 @@
         {
           "name-attribute":"content",
           "value-attribute":"Pszk0nchRX157pkTuX_AqZx0GbRl5j1REL6zGJ052PI"
+        }
+      ],
+      "data-innerHTML":"",
+      "position":"start"
+    },
+    {
+      "name-element":"meta",
+      "data-attribute":[
+        {
+          "name-attribute":"property",
+          "value-attribute":"article:author"
+        },
+        {
+          "name-attribute":"content",
+          "value-attribute":"${authorPost}"
         }
       ],
       "data-innerHTML":"",
